@@ -1,3 +1,6 @@
+// Team details: PG, Workshop(Wednesday Online, 12pm-1pm)
+// 1. Anh Quoc Vo (a1816541)
+// 2. Akshara Gurudutt (a1807651)
 
 
 #include <iostream>
